@@ -7,3 +7,108 @@ body{
 	margin:50px auto;
 	padding:5px;
 	background:#000;
+}
+#playpausebtn{
+	background:url(../img/play_pause.png) no-repeat;
+	border:none;
+	width:30px;
+	height:30px;
+	cursor:pointer;
+	outline:none;
+}
+#mutebtn{
+	background:url(../img/mute.png) no-repeat;
+	border:none;
+	width:30px;
+	height:30px;
+	cursor:pointer;
+	outline:none;
+}
+#timebox{
+	display:inline-block;
+	width:80px;
+	background:#000;
+	border-bottom:1px solid #333;
+	text-align:center;
+	color:#090;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:11px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
