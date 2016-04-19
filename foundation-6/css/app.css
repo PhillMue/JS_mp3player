@@ -43,7 +43,24 @@ input#seekslider{
 input#volumeslider{
 	width:70px;
 }
-
+input[type='range']{
+	-webkit-appearance:none !important;
+	margin:0px;
+	padding:0px;
+	background:#000;
+	height:13px;
+	border-bottom:1px solid #333;
+}
+input[type='range']::-ms-fill-lower{
+	background:#000;
+}
+input[type='range']::-ms-fill-upper{
+	background:#000;
+}
+input[type='range']::-moz-range-track{
+	border:none;
+	background:#000;
+}
 
 
 
