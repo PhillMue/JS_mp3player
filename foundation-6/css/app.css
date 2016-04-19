@@ -34,7 +34,15 @@ body{
 	font-family:Verdana, Geneva, sans-serif;
 	font-size:11px;
 }
-
+input{
+	outline:none;
+}
+input#seekslider{
+	width:500px;
+}
+input#volumeslider{
+	width:70px;
+}
 
 
 
